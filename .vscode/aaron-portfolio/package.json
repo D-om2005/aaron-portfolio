@@ -1,0 +1,23 @@
+{
+  "name": "aaron-portfolio",
+  "version": "1.0.0",
+  "description": "A personal portfolio showcasing projects and resume.",
+  "main": "src/js/main.js",
+  "scripts": {
+    "start": "http-server public -o",
+    "build": "echo 'Build step can be added here'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "portfolio",
+    "resume",
+    "web"
+  ],
+  "author": "Aaron",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {},
+  "homepage": "http://localhost:8080"
+}

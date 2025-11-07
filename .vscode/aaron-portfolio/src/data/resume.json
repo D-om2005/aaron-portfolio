@@ -1,0 +1,42 @@
+{
+    "name": "Aaron Portfolio",
+    "contact": {
+        "email": "aaron@example.com",
+        "phone": "123-456-7890",
+        "linkedin": "https://www.linkedin.com/in/aaron",
+        "github": "https://github.com/aaron"
+    },
+    "summary": "A passionate web developer with experience in building responsive and interactive web applications.",
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "University of Example",
+            "year": "2022"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Web Developer",
+            "company": "Example Company",
+            "duration": "2022 - Present",
+            "responsibilities": [
+                "Developed and maintained web applications using JavaScript, HTML, and CSS.",
+                "Collaborated with designers and backend developers to create seamless user experiences."
+            ]
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "CSS",
+        "HTML"
+    ],
+    "projects": [
+        {
+            "title": "Portfolio Website",
+            "description": "A personal portfolio website to showcase my projects and skills.",
+            "url": "http://localhost:8080"
+        }
+    ]
+}
